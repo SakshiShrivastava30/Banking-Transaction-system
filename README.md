@@ -32,7 +32,8 @@ To build a mini banking system backend using SQL that allows:
 
 ## 🧱 ER Diagram
 
-!![Screenshot 2025-04-26 010328](https://github.com/user-attachments/assets/e0c103b5-079d-4c05-b76c-75bcd8f01dd0)
+![Screenshot 2025-04-26 010328](https://github.com/user-attachments/assets/d37646c0-03b7-49ac-9fd8-27e5efc5a8de)
+
 
 
 
