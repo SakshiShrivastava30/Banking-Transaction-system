@@ -1,6 +1,6 @@
 # 🏦 Banking Transaction System
 
-A simple SQL-based Bank Management System designed to manage customers, accounts, transactions, and loans. This project demonstrates the use of **MySQL** for creating relational database schemas, enforcing foreign key relationships, and performing basic operations related to banking.
+A simple SQL-based Banking Transaction System designed to manage customers, accounts, transactions, and loans. This project demonstrates the use of **MySQL** for creating relational database schemas, enforcing foreign key relationships, and performing basic operations related to banking.
 
 ---
 
